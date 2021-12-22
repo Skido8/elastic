@@ -356,4 +356,4 @@ fsGroup: ""
 
 
 xpack.security.enabled: false
-
+xpack.security.http.ssl.enabled: false
