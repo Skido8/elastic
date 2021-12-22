@@ -355,5 +355,5 @@ tests:
 fsGroup: ""
 
 
-xpack.security.enabled: true
+xpack.security.enabled: false
 
