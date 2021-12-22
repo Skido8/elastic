@@ -353,3 +353,7 @@ tests:
 # Deprecated
 # please use the above podSecurityContext.fsGroup instead
 fsGroup: ""
+
+
+xpack.security.enabled: true
+
